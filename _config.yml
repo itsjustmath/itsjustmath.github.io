@@ -1,0 +1,23 @@
+# Note: If you want to deploy to a GitHub user site (user.github.io), change baseurl to /
+baseurl:
+title: itsjustmath.net
+# Whether the header (with large title and subtitle) should be displayed
+header: true
+subtitle: Passionately curious.
+author: Justin Mather
+description: The musings of Justin Mather
+markdown: kramdown
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+highlighter: rouge
+permalink: /articles/:categories/:year/:month/:day/:title.html
+timezone: Europe/Berlin
+excerpt_separator: <!--more-->
+exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'DeployToGithub.Rakefile', 'README.md']
+post:
+  template: _post.txt
+  extension: md
+page:
+  template: _page.txt
+  extension: md
+git:
+  branch: src
