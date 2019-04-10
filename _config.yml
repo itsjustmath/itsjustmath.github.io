@@ -3,14 +3,16 @@ baseurl:
 title: itsjustmath.net
 # Whether the header (with large title and subtitle) should be displayed
 header: true
-subtitle: Passionately curious.
+subtitle: The musings of Justin Mather
 author: Justin Mather
 description: The musings of Justin Mather
 markdown: kramdown
+email: hello [at] itsjustmath [dot] net
+url: 'http://justinmather.me'
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 highlighter: rouge
 permalink: /articles/:categories/:year/:month/:day/:title.html
-timezone: Europe/Berlin
+timezone: America/Los_Angeles
 excerpt_separator: <!--more-->
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'DeployToGithub.Rakefile', 'README.md']
 post:

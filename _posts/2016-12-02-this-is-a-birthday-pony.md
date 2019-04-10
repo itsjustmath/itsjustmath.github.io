@@ -1,6 +1,7 @@
 ---
-title: "This is a birthday pony!"
+title: "Hello World!"
 layout: post
+published: false
 ---
 
 *This is a birthday pony*, for some reason, became the default placeholder text for [me](http://stephan.druskat.net).
