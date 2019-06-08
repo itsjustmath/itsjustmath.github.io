@@ -4,9 +4,24 @@
   {% if site.email == "" or site.email == nil %}
 	{{site.author }}</span></br> <br>
   {% else %}
-		<a href="{{ site.url }}">{{site.author}}</a></span></br> <br>
+    <a href="{{ site.url }}">{{site.author}}</a></span>
+  <!-- </br> <br> -->
   {% endif %}
 
-{% comment %} <span>Created with <a href="//jekyllrb.com">Jekyll</a> and the theme <a href="//github.com/sdruskat/tufte-css-jekyll">tufte-css-jekyll</a>.</span>  {% endcomment %}
+  &nbsp;&nbsp;
+  <div style="display: inline-block;">
+    <form
+  action="https://buttondown.email/api/emails/embed-subscribe/itsjustmath"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/itsjustmath', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <label for="bd-email"><strong>Newsletter Sign-up: </strong></label>
+  <input type="email" name="email" id="bd-email" placeholder="Email">
+  <input type="hidden" value="1" name="embed"/>
+  <input type="submit" value="Subscribe" />
+</form>
+  </div>
 </div>
 </footer>

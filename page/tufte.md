@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Tufte CSS
+title: Tufte CSS (Reference)
 subtitle: Reproduction of the tufte-css demo site by Dave Liepmann
 weight: 3
 published: false
+nav_exclude: true
 ---
 
 Tufte CSS provides tools to style web articles using the ideas demonstrated by Edward Tufte's books and handouts. Tufte's style is known for its simplicity, extensive use of sidenotes, tight integration of graphics with text, and carefully chosen typography.

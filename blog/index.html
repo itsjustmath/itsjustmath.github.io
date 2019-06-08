@@ -5,10 +5,10 @@ title: Blog
 weight: 2
 ---
 
-      <em>Coming Soon...</em>
+<em>Coming Soon...</em>
 
-    {% for post in site.posts %}
-          <a href="{{ post.url | prepend: site.baseurl }}"><h2>{{ post.title }}</h2></a>
-          <br><span>{{ post.date | date: "%B %-d, %Y" }}</span>  <br/>
-          <div>{{ post.excerpt }}</div>
-    {% endfor %}
+{% for post in site.posts %}
+  <a href="{{ post.url | prepend: site.baseurl }}"><h2>{{ post.title }}</h2></a>
+  <br><span>{{ post.date | date: "%B %-d, %Y" }}</span>  <br/>
+  <div>{{ post.excerpt }}</div>
+{% endfor %}

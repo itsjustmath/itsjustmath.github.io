@@ -3,9 +3,9 @@ baseurl:
 title: itsjustmath.net
 # Whether the header (with large title and subtitle) should be displayed
 header: true
-subtitle: The musings of Justin Mather
+subtitle: Observations and advice on navigating the ever-changing digital landscape.
 author: Justin Mather
-description: The musings of Justin Mather
+description: Observations and advice on navigating the ever-changing digital landscape.
 markdown: kramdown
 email: hello [at] itsjustmath [dot] net
 url: 'http://justinmather.me'
@@ -23,3 +23,7 @@ page:
   extension: md
 git:
   branch: src
+# plugins:
+  # - jekyll-feed
+  # - jekyll-seo-tag
+  # - jekyll-sitemap
