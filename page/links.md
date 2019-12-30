@@ -4,10 +4,29 @@ title: Links
 weight: 4
 ---
 
-*A curated list of my favorite articles, podcasts, and books.*
+*A curated list of articles, podcasts, and books.*
+
+## People
+
+[Bret Victor](http://worrydream.com/)  
+Nicky Case  
 
 ## Podcasts
 
-Sam Harris  
+Making Sense (with Sam Harris)  
 Team Human  
-Russell Brand
+
+## Articles
+
+### Technology 
+[The Last Days of Reality](https://meanjin.com.au/essays/the-last-days-of-reality/) by Mark Pesce  
+
+### Design
+
+[Data Humanism](http://giorgialupi.com/data-humanism-my-manifesto-for-a-new-data-wold) by Giorgia Lupi  
+
+
+## Videos 
+
+## Concepts
+Life Areas
