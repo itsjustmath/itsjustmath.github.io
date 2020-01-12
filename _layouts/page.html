@@ -1,8 +1,15 @@
 ---
 layout: default
 ---
-{% comment %} <h1>{{ page.title }}</h1>
-<p class="subtitle">{{ page.subtitle }}</p>
-<p class="margin-maker"/> {% endcomment %}
+
+{% comment %}
+  <h1>{{ page.title }}</h1>
+  <p class="subtitle">{{ page.subtitle }}</p>
+  <p class="margin-maker"/>
+{% endcomment %}
+
+{% if page.reading_time == true %}
+  {% include reading-time.html %}
+{% endif %}
 
 {{ content }}

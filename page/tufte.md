@@ -20,7 +20,7 @@ Finally, a reminder about the goal of this project. The web is not print. Webpag
 To use Tufte CSS, copy `tufte.css` and the `et-book` directory of font files to your project directory, then add the following to your HTML document's `head` block:
 
 ```html
-<link rel="stylesheet" href="tufte.css"/>
+<link rel="stylesheet" href="tufte.css" />
 ```
 
 Now you just have to use the provided CSS rules, and the Tufte CSS conventions described in this document. For best results, View Source and Inspect Element frequently.
@@ -33,8 +33,8 @@ Organize your document with an `article` element inside your `body` tag. Inside 
 
 Tufte CSS uses `h1` for the document title, `p` with class `subtitle` for the document subtitle, `h2` for section headings, and `h3` for low-level headings. More specific headings are not supported. If you feel the urge to reach for a heading of level 4 or greater, consider redesigning your document:
 
-> [It is] notable that the Feynman lectures (3 volumes) write about all of physics in 1800 pages, using only 2 levels of hierarchical headings: chapters and A-level heads in the text. It also uses the methodology of *sentences* which then cumulate sequentially into *paragraphs*, rather than the grunts of bullet points. Undergraduate Caltech physics is very complicated material, but it didn't require an elaborate hierarchy to organize.
-<cite>[Edward Tufte, forum post, ‘Book design: advice and examples' thread](http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0000hB)</cite>
+> [It is] notable that the Feynman lectures (3 volumes) write about all of physics in 1800 pages, using only 2 levels of hierarchical headings: chapters and A-level heads in the text. It also uses the methodology of _sentences_ which then cumulate sequentially into _paragraphs_, rather than the grunts of bullet points. Undergraduate Caltech physics is very complicated material, but it didn't require an elaborate hierarchy to organize.
+> <cite>[Edward Tufte, forum post, ‘Book design: advice and examples' thread](http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0000hB)</cite>
 
 As a bonus, this excerpt regarding the use of headings provides an example of block quotes. In Tufte CSS they are just lightly styled, semantically correct HTML using `blockquote` and `footer` elements. See page 20 of [The Visual Display of Quantitative Information](https://www.edwardtufte.com/tufte/books_vdqi) for an example in print.
 
@@ -62,20 +62,19 @@ As always, these design choices are merely one approach that Tufte CSS provides 
 
 {% epigraph 'I do not paint things, I paint only the differences between things.' 'Henri Matisse, Henri Matisse Dessins: thèmes et variations (Paris, 1943), 37' %}
 
-If you'd like to introduce your page or a section of your page with some quotes, use epigraphs. Modeled after chapter epigraphs in Tufte's books (particularly *Beautiful Evidence*), these are `blockquote` elements with a bit of specialized styling. Quoted text is italicized. The source goes in a `footer` element inside the `blockquote`. We have provided three examples in the epigraph of this section, demonstrating shorter and longer quotes, with and without a paragraph tag, and showing how multiple quotes within an epigraph fit together with the use of a wrapper class.
-
+If you'd like to introduce your page or a section of your page with some quotes, use epigraphs. Modeled after chapter epigraphs in Tufte's books (particularly _Beautiful Evidence_), these are `blockquote` elements with a bit of specialized styling. Quoted text is italicized. The source goes in a `footer` element inside the `blockquote`. We have provided three examples in the epigraph of this section, demonstrating shorter and longer quotes, with and without a paragraph tag, and showing how multiple quotes within an epigraph fit together with the use of a wrapper class.
 
 ## Sidenotes: Footnotes and Marginal Notes
 
 One of the most distinctive features of Tufte's style is his extensive use of sidenotes.{% sidenote 'extensive-use-of-sidenotes' 'This is a sidenote.' %} Sidenotes are like footnotes, except they don't force the reader to jump their eye to the bottom of the page, but instead display off to the side in the margin. Perhaps you have noticed their use in this document already. You are very astute.
 
-Sidenotes are a great example of the web not being like print. On sufficiently large viewports, Tufte CSS uses the margin for sidenotes, margin notes, and small figures. On smaller viewports, elements that would go in the margin are hidden until the user toggles them into view. The goal is to present related but not necessary information such as asides or citations *as close as possible* to the text that references them. At the same time, this secondary information should stay out of the way of the eye, not interfering with the progression of ideas in the main text.
+Sidenotes are a great example of the web not being like print. On sufficiently large viewports, Tufte CSS uses the margin for sidenotes, margin notes, and small figures. On smaller viewports, elements that would go in the margin are hidden until the user toggles them into view. The goal is to present related but not necessary information such as asides or citations _as close as possible_ to the text that references them. At the same time, this secondary information should stay out of the way of the eye, not interfering with the progression of ideas in the main text.
 
 Sidenotes consist of two elements: a superscript reference number that goes inline with the text, and a sidenote with content. To add the former, just put a label and dummy checkbox into the text where you want the reference to go, like so:
 
 ```html
 <label for="sn-demo" class="margin-toggle sidenote-number"></label>
-  <input type="checkbox" id="sn-demo" class="margin-toggle"/>
+<input type="checkbox" id="sn-demo" class="margin-toggle" />
 ```
 
 You must manually assign a reference `id` to each side or margin note, replacing "sn-demo" in the `for` and the `id` attribute values with an appropriate descriptor. It is useful to use prefixes like `sn-` for sidenotes and `mn-` for margin notes.
@@ -93,10 +92,10 @@ Margin notes are created just like sidenotes, but with the `marginnote` class fo
 
 ```html
 <label for="mn-demo" class="margin-toggle">&amp;#8853;</label>
-  <input type="checkbox" id="mn-demo" class="margin-toggle"/>
-  <span class="marginnote">
-    This is a margin note. Notice there isn't a number preceding the note.
-  </span>
+<input type="checkbox" id="mn-demo" class="margin-toggle" />
+<span class="marginnote">
+  This is a margin note. Notice there isn't a number preceding the note.
+</span>
 ```
 
 Figures in the margin are created as margin notes, as demonstrated in the next section.
@@ -113,7 +112,7 @@ Figures should try to use the `figure` element, which by default are constrained
 
 But tight integration of graphics with text is central to Tufte's work even when those graphics are ancillary to the main body of a text. In many of those cases, a margin figure may be most appropriate. To place figures in the margin, just wrap an image (or whatever) in a margin note inside a `p` tag, as seen to the right of this paragraph.
 
-If you need a full-width figure, give it the `fullwidth` class. Make sure that's inside an `article`, and it will take up (almost) the full width of the screen. This approach is demonstrated below using Edward Tufte's English translation of the Napoleon's March data visualization. From *Beautiful Evidence*, page 122-124.
+If you need a full-width figure, give it the `fullwidth` class. Make sure that's inside an `article`, and it will take up (almost) the full width of the screen. This approach is demonstrated below using Edward Tufte's English translation of the Napoleon's March data visualization. From _Beautiful Evidence_, page 122-124.
 
 <br>
 
@@ -125,7 +124,7 @@ Technical jargon, programming language terms, and code samples are denoted with 
 
 Extended code examples should use a `pre` tag with class `code`. This adds control over indentation and overflow as well:
 
-``` clojure
+```clojure
 
 ;; Some code examples in Clojure. This is a comment.
 
@@ -161,4 +160,3 @@ Here is an ImageQuilt of 47 animal sounds over and over, in a figure constrained
 ## Epilogue
 
 Many thanks go to Edward Tufte for leading the way with his work. It is only through his kind and careful editing that this project accomplishes what it does. All errors of implementation are of course mine.
-

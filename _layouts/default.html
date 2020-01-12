@@ -1,18 +1,28 @@
 <!DOCTYPE html>
 <html>
   {% include head.html %}
+
   <body>
     {% include header.html %}
 
     <article class="group">
       <h1>{{ page.title }}</h1>
+
       {% if page.subtitle %}
-      <p class="subtitle">{{ page.subtitle }}</p>
+        <p class="subtitle">{{ page.subtitle }}</p>
       {% endif %}
+
       <p class="margin-maker" />
-      {% if page.toc == true %} {% include toc.html html=content %} {% endif %}
+
+      {% if page.toc == true %}
+        {% include toc.html html=content class="toc" %}
+      {% endif %}
+
       {{ content }}
+
     </article>
-    {% include print-footer.html %} {% include footer.html %}
+
+    {% include print-footer.html %}
+    {% include footer.html %}
   </body>
 </html>
