@@ -5,7 +5,7 @@ show_page_title: false
 weight: 1
 ---
 
-<p><label for="mf-id-headshot" class="margin-toggle">⊕</label><input type="checkbox" id="mf-id-headshot" class="margin-toggle"><span class="marginnote"><img class="fullwidth" src="/assets/img/justin-headshot.jpg"><br>Hello!</span></p>
+<p><label for="mf-id-headshot" class="margin-toggle">⊕</label><input type="checkbox" id="mf-id-headshot" class="margin-toggle"><span class="marginnote"><img class="fullwidth" src="/assets/img/justin-headshot.jpg"><br></span></p>
 
 # Hi, I'm Justin!
 
