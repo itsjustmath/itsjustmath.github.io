@@ -10,7 +10,7 @@ weight: 1
 # Hi, I'm Justin!
 
 <!-- About Me -->
-I'm a New York-born and Los Angeles-raised front end developer / UI engineer. When I'm not working, you can find me hiking, reading, sipping coffee, and traveling to his favorite city, Tokyo.
+I'm a New York-born and Los Angeles-raised front end developer / UI engineer. When I'm not working, you can find me hiking, reading, sipping coffee, or traveling to my favorite city, Tokyo.
 
 
 <!-- My Work -->
