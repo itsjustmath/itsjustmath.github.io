@@ -10,12 +10,13 @@ weight: 1
 # Hi, I'm Justin!
 
 <!-- About Me -->
-Born in New York and raised in Los Angeles — [Justin Mather](https://justinmather.me/) is a front end developer, UI engineer, and all-around nice guy. When he’s not working, you can find him hiking, reading, sipping coffee, and traveling the world.
+I'm a New York born and Los Angeles raised front end developer / UI engineer. When he’s not working, you can find him hiking, reading, sipping coffee, and traveling to his favorite city, Tokyo.
 
 
 <!-- My Work -->
-He currently works at a mid-size creative agency called **_Zehner_** — they’ve worked on sites such as [FIJI Water](https://www.fijiwater.com), [San Antonio Museum of Art](https://www.samuseum.org/), [Sun Bum](https://www.trustthebum.com/), [Nuun](https://nuunlife.com/), [Outerknown](https://www.outerknown.com/), and [more](https://www.zehnergroup.com/work). Previously he worked on the apartment rental platform, [Radpad](https://www.onradpad.com/).
+I currently work at a mid-size creative agency called **_Zehner_** — where I've helped build sites such as [FIJI Water](https://www.fijiwater.com), [San Antonio Museum of Art](https://www.samuseum.org/), [Sun Bum](https://www.trustthebum.com/), [Nuun](https://nuunlife.com/), [Outerknown](https://www.outerknown.com/), and [more](https://www.zehnergroup.com/work). Previously I worked on the apartment rental platform, [Radpad](https://www.onradpad.com/).
 
 <!-- {% maincolumn 'assets/img/projects-quilt.png' '' %} -->
 
 <!-- My Interests -->
+I'm interested in emerging technologies, and how they shape our ability to make sense of an increasingly complex world. *Particularly*, augmenting (collective) human intelligence with these tools, and systems developed from them. <!-- The internet as a medium fascinates me — its limitless potential to share ideas and knowledge, and its  --> I'm also interested in: helping destigmiatize mental illness, and create value systems to help people decide how to spend their valuable time.
