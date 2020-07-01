@@ -5,7 +5,7 @@ show_page_title: false
 weight: 1
 ---
 
-{% marginfigure 'mf-id-headshot' 'assets/img/justin-headshot.jpg' 'Hello!' %}
+<p><label for="mf-id-headshot" class="margin-toggle">⊕</label><input type="checkbox" id="mf-id-headshot" class="margin-toggle"><span class="marginnote"><img class="fullwidth" src="/assets/img/justin-headshot.jpg"><br>Hello!</span></p>
 
 # Hi, I'm Justin!
 
