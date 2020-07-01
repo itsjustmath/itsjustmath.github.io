@@ -7,7 +7,7 @@
 bundle exec jekyll build
 bundle exec jekyll serve -w
 
-#deploy to gh-pages
+# deploy to gh-pages
 bundle exec jgd
 ```
 
