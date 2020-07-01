@@ -3,6 +3,7 @@
   <div class="credits">
     <span>&copy; {{ site.time | date: '%Y' }}
       {% if site.email == "" or site.email == nil %}
+        {{site.author }}</span>
         {% comment %} </br> <br> {% endcomment %}
       {% else %}
           <a href="{{ site.url }}">{{site.author}}</a></span>
@@ -11,21 +12,24 @@
 
     &nbsp;&nbsp;
 
-    <span><a href="https://buttondown.email/itsjustmath" title="Newsletter">Newsletter</a></span>
 
-    <div style="display: none;">
-      <form
-        action="https://buttondown.email/api/emails/embed-subscribe/itsjustmath"
-        method="post"
-        target="popupwindow"
-        onsubmit="window.open('https://buttondown.email/itsjustmath', 'popupwindow')"
-        class="embeddable-buttondown-form"
-      >
-        <label for="bd-email"><strong>Newsletter Sign-up: </strong></label>
-        <input type="email" name="email" id="bd-email" placeholder="Email">
-        <input type="hidden" value="1" name="embed"/>
-        <input type="submit" value="Subscribe" />
-      </form>
-    </div>
+    <!-- Substack embed is kinda ugly... -->
+    <!-- <iframe src="https://itsjustmath.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe> -->
+
+    <!-- <span><a href="https://buttondown.email/itsjustmath" target="_blank" title="Newsletter">Newsletter</a></span> -->
+
+    <form
+      action="https://buttondown.email/api/emails/embed-subscribe/itsjustmath"
+      method="post"
+      target="popupwindow"
+      onsubmit="window.open('https://buttondown.email/itsjustmath', 'popupwindow')"
+      class="embeddable-buttondown-form"
+      style="display: inline-block;"
+    >
+      <label for="bd-email"><strong>Newsletter Sign-up: </strong></label>
+      <input type="email" name="email" id="bd-email" placeholder="Email">
+      <input type="hidden" value="1" name="embed"/>
+      <input type="submit" value="Subscribe" />
+    </form>
   </div>
 </foote>
