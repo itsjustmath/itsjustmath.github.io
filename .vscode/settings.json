@@ -1,0 +1,9 @@
+{
+  "workbench.colorTheme": "Solarized Light",
+  "[markdown]": {
+    "files.trimAutoWhitespace": false
+  },
+  "files.associations": {
+    "*.html": "liquid"
+  }
+}

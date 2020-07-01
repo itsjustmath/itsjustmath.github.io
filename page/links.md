@@ -8,7 +8,7 @@ weight: 4
 
 ## **People**
 
-### Techies
+### Technologists
 [Bret Victor](http://worrydream.com/)  
 [Nicky Case](https://blog.ncase.me/how-i-make-an-explorable-explanation/)  
 
@@ -28,7 +28,7 @@ James Clear
 
 ## **Podcasts**
 
-Making Sense (with Sam Harris)  
+Making Sense - *Sam Harris*  
 Team Human
 
 ### Episodes
@@ -36,7 +36,7 @@ Team Human
 [Digital Capitalism](https://open.spotify.com/episode/3K5d1T7Ud0bAHkXjcufbph?si=icKe7aXVTruHJdGyaFknIg) (Douglas Rushkoff)    
 [The Biology of Good and Evil](https://open.spotify.com/episode/5HkV3uD2ByNpfsS7GRWKWH?si=GScs4fdsQUKlJQXPi0bCjg) (Robert Sapolsky)  
 [A Demonology of Algorithms](https://open.spotify.com/episode/09IlsjnZcWNF9UGUpwd4y9?si=Z7nIVMFyR5KYZWZkwN29yQ)  
-[Work as identity, burnout as lifestyle](https://open.spotify.com/episode/1C3MHtbcYytCclJVebR48Y?si=efkQ4RMbQm-nVd3Lg55hjg)  
+[Work as Identity, Burnout as Lifestyle](https://open.spotify.com/episode/1C3MHtbcYytCclJVebR48Y?si=efkQ4RMbQm-nVd3Lg55hjg) (Ezra Klein Podcast)  
 [Wait But Why - Tim Urban](https://open.spotify.com/episode/6yrYvf3QX7BcpAssQbBLGS?si=gp1d7CAyTZCwTAtMXgZqAA) (Tim Ferriss' Tribe of Mentors)
 
 ## **Articles**
@@ -48,7 +48,7 @@ Team Human
 ### Career
 [How to Pick a Career (That Actually Fits You)](https://waitbutwhy.com/2018/04/picking-career.html) by Tim Urban  
 
-### Brains
+### Self-Awareness
 [The Evolution of Anxiety](https://jamesclear.com/evolution-of-anxiety) by James Clear  
 [Why You Should Stop Caring What Other People Think](https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html) by Tim Urban
 
@@ -80,8 +80,11 @@ Team Human
 [Life Areas](https://alexvermeer.com/life-areas/)    
 [Ikigai](https://medium.com/thrive-global/ikigai-the-japanese-secret-to-a-long-and-happy-life-might-just-help-you-live-a-more-fulfilling-9871d01992b7) 
 
+<!--
+
 ## ~~**Software**~~
 
 [~~Aware~~](https://apps.apple.com/us/app/aware/id1082170746?mt=12)  
 [~~Nativeifer~~](https://github.com/jiahaog/Nativefier)
 
+-->

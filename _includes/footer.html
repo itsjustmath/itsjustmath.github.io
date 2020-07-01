@@ -3,7 +3,7 @@
   <div class="credits">
     <span>&copy; {{ site.time | date: '%Y' }}
       {% if site.email == "" or site.email == nil %}
-        {{site.author }}</span></br> <br>
+        {% comment %} </br> <br> {% endcomment %}
       {% else %}
           <a href="{{ site.url }}">{{site.author}}</a></span>
       <!-- </br> <br> -->
