@@ -8,13 +8,20 @@ author: Justin Mather
 description: Observations and advice on navigating the ever-changing digital landscape.
 markdown: kramdown
 email: hello [at] itsjustmath [dot] net
-url: 'http://justinmather.me'
+url: "http://justinmather.me"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 highlighter: rouge
 permalink: /articles/:categories/:year/:month/:day/:title.html
 timezone: America/Los_Angeles
 excerpt_separator: <!--more-->
-exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'DeployToGithub.Rakefile', 'README.md']
+exclude:
+  [
+    "Gemfile",
+    "Gemfile.lock",
+    "Rakefile",
+    "DeployToGithub.Rakefile",
+    "README.md",
+  ]
 post:
   template: _post.txt
   extension: md
@@ -23,7 +30,7 @@ page:
   extension: md
 git:
   branch: src
-# plugins:
+plugins:
   # - jekyll-feed
   # - jekyll-seo-tag
   # - jekyll-sitemap
