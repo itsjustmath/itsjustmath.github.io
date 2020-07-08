@@ -2,11 +2,11 @@
 {% assign word_count = content | number_of_words %}
 {% assign read_time = word_count | divided_by: wpm | round %}
 
-<em>
+<p>
   Reading Time:
   {% if word_count < wpm %}
     1 minute
   {% else %}
     {{ read_time }} minutes
   {% endif %}
-</em>
+</p>
