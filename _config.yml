@@ -11,7 +11,7 @@ email: hello [at] itsjustmath [dot] net
 url: "https://itsjustmath.net"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 highlighter: rouge
-permalink: /blog/:title.html
+permalink: /blog/:title
 timezone: America/Los_Angeles
 excerpt_separator: <!--more-->
 exclude:
