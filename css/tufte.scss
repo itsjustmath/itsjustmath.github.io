@@ -641,3 +641,12 @@ hr.slender {
       display:none;
     }
 }
+
+// Shrink nav items width on mobile devices
+@media (max-width: 767px) {
+  header > nav a {
+    letter-spacing: 0.05em;
+    font-size: 1rem;
+    margin-right: 1.2rem;
+  }
+}
