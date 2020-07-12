@@ -6,7 +6,7 @@ published: true
 reading_time: true
 ---
 
-If you've ever seen my immaculately clean desk at work, or my meticulously organized apartment, the first thing you'll likely say is, "Whoa. How are you so organized?”  And then, if you somehow by chance made your way into my digital home, you'd likely be asking the same question.
+If you've ever seen my immaculately clean desk at work, or my meticulously organized apartment, the first thing you'll likely say is, "Whoa. How are you so organized?”  If you somehow made your way into my digital home, you'd likely be asking the same question.
 
 <!--more-->
 
@@ -15,8 +15,6 @@ If you've ever seen my immaculately clean desk at work, or my meticulously organ
 There is something to be said about how organized someone's living and working spaces are, and how that can often be a manifestation of their psyche. In fact, a [Princeton University study](https://www.jneurosci.org/content/31/2/587) found that the more clutter in your field of vision, the more you're going to find yourself getting distracted. Most people think that organization is about freedom from the burden of superficial excess, but it’s actually about inner freedom (liberation of the mind).
 
 {% marginfigure 'workspace' 'assets/img/organized-workspace.jpg' 'Photo by [Norbert Levajsics](https://unsplash.com/photos/gCUOkv04kbI)' %}
-
-
 
 This borderline obsessive level of organizational discipline is not some gimmick though — it's the way I've learned to cope with my ADHD, and a subsequent brain that is maladapted for the domestic, sedentary, delayed-gratification knowledge-worker-life I now live.
 
@@ -43,6 +41,8 @@ In reality, having a brain like this has just forced me to confront earlier what
 
 ## How Certain Technology Exploits Our Base Instincts
 Attention is now the world's most valuable resource. During most of man's current epoch, big business was concerned with exploitation of natural resources (oil, natural gas, rare earth minerals). But with the advent and maturation of the internet, they discovered that extraction of our attention was exponentially more valuable to them.
+
+{% marginfigure 'slot-machine' 'assets/img/iphone-slots.jpg' %} 
 
 Under the guise of “connecting the world” or “organizing the world’s information”, certain misguided megalomaniacs have morphed their platforms and technologies to leverage our deeply embedded survival instincts against us. They prey on our need for approval (to be accepted by our tribe) with their "like" counters. Their intermittent reward systems have turned our phones into slot machines. Their algorithm-driven feeds calculate that the invoking of negative emotions (anger, jealousy) keeps users more engaged, so they show us more and more upsetting content with no regard for psychological or societal consequences.
 
