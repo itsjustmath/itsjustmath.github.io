@@ -86,8 +86,6 @@ Setup [ScreenTime](https://support.apple.com/en-au/HT208982) on your phone and p
 
 **Create some structure**: time block your calendar. “Time blocking is the practice of  the practice of planning out every moment of your day in advance, and dedicating specific time ‘blocks’ for certain tasks and responsibilities.” {% sidenote 'timeblocking-101' 'Jory MacKay, [Time Blocking 101](https://blog.rescuetime.com/time-blocking-101/)' %}
 
-Add estimates to your six most important tasks (mentioned above). Then add them to  your calendar. Leave the task as an "All Day" event until you've figured out where to slot it in on your calendar for that day.
-
 
 ### Struggling with burnout?
 **Create some boundaries by taking breaks**: [Aware](https://awaremac.com/) puts a timer in your menu bar showing how long you've been using your computer uninterrupted without a break.
