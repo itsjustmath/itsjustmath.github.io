@@ -4,7 +4,7 @@ title: Newsletter
 weight: 4
 ---
 
-Please sign up for my newsletter, "New Addition":
+In keeping with my puns theme, I have a newsletter called "New Addition".
 
 <p>
 <iframe

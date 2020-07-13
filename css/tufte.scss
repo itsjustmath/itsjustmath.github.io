@@ -218,7 +218,11 @@ p.margin-maker {
              margin-bottom: 3.4rem;
               }
 
-p, ol, ul { font-size: 1.4rem; }
+p, ol, ul { font-size: 1.2rem; }
+
+@media (min-width: 768px) {
+  p, ol, ul { font-size: 1.4rem; }
+}
 
 p, li { line-height: 2rem;
         margin-top: 1.4rem;
@@ -472,9 +476,29 @@ nav.group a.active {
          background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
          background-repeat: no-repeat, no-repeat, repeat-x;
          text-shadow: 0.03em 0 #fffff8, -0.03em 0 #fffff8, 0 0.03em #fffff8, 0 -0.03em #fffff8, 0.06em 0 #fffff8, -0.06em 0 #fffff8, 0.09em 0 #fffff8, -0.09em 0 #fffff8, 0.12em 0 #fffff8, -0.12em 0 #fffff8, 0.15em 0 #fffff8, -0.15em 0 #fffff8;
-         background-position: 0% 93%, 100% 93%, 0% 93%;
+         background-position: 0% 99%, 100% 99%, 0% 99%;
 
   }
+
+// Retina-specific stuff here
+@media
+(-webkit-min-device-pixel-ratio: 1.25), (min-resolution: 120dpi) {
+  nav.group a.active {
+    // font-weight: bold;
+    background: -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#333, #333);
+           background: linear-gradient(#fffff8, #fffff8), linear-gradient(#fffff8, #fffff8), linear-gradient(#333, #333);
+           -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+           -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+           background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+           background-repeat: no-repeat, no-repeat, repeat-x;
+           text-shadow: 0.03em 0 #fffff8, -0.03em 0 #fffff8, 0 0.03em #fffff8, 0 -0.03em #fffff8, 0.06em 0 #fffff8, -0.06em 0 #fffff8, 0.09em 0 #fffff8, -0.09em 0 #fffff8, 0.12em 0 #fffff8, -0.12em 0 #fffff8, 0.15em 0 #fffff8, -0.15em 0 #fffff8;
+           background-position: 0% 93%, 100% 93%, 0% 93%;
+
+    }
+}
+
+
+
 // nav.group a.active:before{ content:"\0003e\000a0"; } // escaped unicode for the carats and then a space on active menu links
 // nav.group a.active:after{ content:"\000a0\0003c" ;}
 

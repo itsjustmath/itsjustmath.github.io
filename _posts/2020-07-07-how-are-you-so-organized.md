@@ -12,7 +12,7 @@ If you've ever seen my immaculately clean desk at work, or my meticulously organ
 
 ## Clean Space, Clear Mind?
 
-There is something to be said about how organized someone's living and working spaces are, and how that can often be a manifestation of their psyche. In fact, a [Princeton University study](https://www.jneurosci.org/content/31/2/587) found that the more clutter in your field of vision, the more you're going to find yourself getting distracted. Most people think that organization is about freedom from the burden of superficial excess, but it’s actually about inner freedom (liberation of the mind).
+There is something to be said about how organized someone's living and working spaces are, and how that can often be a manifestation of their psyche. In fact, [a Princeton University study](https://www.jneurosci.org/content/31/2/587) found that the more clutter in your field of vision, the more you're going to find yourself getting distracted. Most people think that organization is about freedom from the burden of superficial excess, but it’s actually about inner freedom (liberation of the mind).
 
 {% marginfigure 'workspace' 'assets/img/organized-workspace.jpg' 'Photo by [Norbert Levajsics](https://unsplash.com/photos/gCUOkv04kbI)' %}
 
@@ -35,14 +35,14 @@ The prefrontal cortex is one of the more evolved areas of our brains — it gove
 
 During hunter-gatherer times my brain would have been well suited for "an ever-changing environment where the dangers were as unpredictable as our next meal" {% sidenote 'nyt-adhd' 'Richard A. Friedman, [A Natural Fix for ADHD](https://www.nytimes.com/2014/11/02/opinion/sunday/a-natural-fix-for-adhd.html)' %}. In this modern era, in order to remain a functional, semi-successful member of society I have had to come up with a series of "mental hacks" to circumvent a brain that is only interested in novelty and short-term gratification.
 
-In reality, having a brain like this has just forced me to confront earlier what others are experiencing now with exploitative, extractive technology.
-
 > "You see, ADHD is obsessive, and we don't get to choose what we're obsessed with. It's not a conscious decision and it's not based on our personality. It's whatever our brains want right this second." {% sidenote 'gekk' 'Gekk, [ADHD - A Lifelong Struggle](https://gekk.info/articles/adhd.html)' %}
+
+In reality, having a brain like this has just forced me to confront earlier what others are experiencing now with exploitative, extractive technology.
 
 ## How Certain Technology Exploits Our Base Instincts
 Attention is now the world's most valuable resource. During most of man's current epoch, big business was concerned with exploitation of natural resources (oil, natural gas, rare earth minerals). But with the advent and maturation of the internet, they discovered that extraction of our attention was exponentially more valuable to them.
 
-{% marginfigure 'slot-machine' 'assets/img/iphone-slots.jpg' %} 
+{% marginfigure 'slot-machine' 'assets/img/iphone-slots.jpg' %}
 
 Under the guise of “connecting the world” or “organizing the world’s information”, certain misguided megalomaniacs have morphed their platforms and technologies to leverage our deeply embedded survival instincts against us. They prey on our need for approval (to be accepted by our tribe) with their "like" counters. Their intermittent reward systems have turned our phones into slot machines. Their algorithm-driven feeds calculate that the invoking of negative emotions (anger, jealousy) keeps users more engaged, so they show us more and more upsetting content with no regard for psychological or societal consequences.
 
@@ -78,9 +78,11 @@ Setup [ScreenTime](https://support.apple.com/en-au/HT208982) on your phone and p
 
 ### Struggling with prioritizing? Too many things on your plate?
 
-**Create some constraints:** use the [Ivy Lee Method](https://jamesclear.com/ivy-lee). Which says: at the end of each work day, write down the six most important things you need to accomplish tomorrow (no more than six), in order of their true importance. Work until the first task is finished before moving on to the next one. Repeat. At the end of the day, move any unfinished items to a new list of six tasks for the following day. 
+**Create some constraints:** use the [Ivy Lee Method](https://jamesclear.com/ivy-lee). Which says: at the end of each work day, write down the six most important things you need to accomplish tomorrow (no more than six), in order of their true importance. Work until the first task is finished before moving on to the next one. Repeat. At the end of the day, move any unfinished items to a new list of six tasks for the following day.
 
 ### Struggling with time management? Or planning how long things will take?
+
+{% maincolumn 'assets/img/brad-frost-calendar.png'  %}
 
 **Create some structure**: time block your calendar. “Time blocking is the practice of  the practice of planning out every moment of your day in advance, and dedicating specific time ‘blocks’ for certain tasks and responsibilities.” {% sidenote 'timeblocking-101' 'Jory MacKay, [Time Blocking 101](https://blog.rescuetime.com/time-blocking-101/)' %}
 
@@ -95,7 +97,7 @@ The Pomodoro system calls for a long-break after completing four 25-minute sessi
 ### Struggling with keeping track of everything you need to do? Trying to keep too much in your head?
 **Develop a single “capture” system that you trust**: Try out the various "input-capture and processing" systems ([BASB/PARA](https://maggieappleton.com/basb#:~:text=Much%20like%20it%20sounds%2C%20Building,information%20into%20Good%20Creative%20Output), [GTD](https://hamberg.no/gtd), [Bujo](https://bulletjournal.com/pages/learn)) and find out what works best for you. If you’re just starting off, the value of having a single system (that you trust, and will consistently prune/organize) is that you will know where to look for things in the future when you need to find them.
 
-My “inbox” (or ubiquitous quick capture system) involves a mixture of dumping thoughts, tasks, notes into [Drafts](https://getdrafts.com) or [Field Notes](https://fieldnotesbrand.com/products/pitch-black-memo-book), that then get processed and transferred to [Roam Research](https://roamresearch.com/). 
+My “inbox” (or ubiquitous quick capture system) involves a mixture of dumping thoughts, tasks, notes into [Drafts](https://getdrafts.com) or [Field Notes](https://fieldnotesbrand.com/products/pitch-black-memo-book), that then get processed and transferred to [Roam Research](https://roamresearch.com/).
 
 **Reduce cognitive load**: (ie. the amount of things we need to remember) Offload minutiae to digital systems. Both [Next Meeting](https://apps.apple.com/us/app/next-meeting/id1017470484?mt=12), and [Fantastical](https://flexibits.com/fantastical) will display your next meeting in your menu bar.
 
