@@ -19,4 +19,4 @@ I currently work at a mid-size creative agency called **_Zehner_** — where I'v
 <!-- {% maincolumn 'assets/img/projects-quilt.png' '' %} -->
 
 <!-- My Interests -->
-I'm interested in emerging technologies, and how they shape our ability to make sense of an increasingly complex world. *Particularly*, augmenting (collective) human intelligence with these tools, and systems developed from them. <!-- The internet as a medium fascinates me — its limitless potential to share ideas and knowledge, and its  --> I'm also interested in: helping destigmatize mental illness, and create value systems to help people decide how to spend their time.
+I'm interested in emerging technologies, and how they shape our ability to make sense of an increasingly complex world. *Particularly*, augmenting (collective) human intelligence with these tools, and systems developed from them. <!-- The internet as a medium fascinates me — its limitless potential to share ideas and knowledge, and its  --> I'm also interested in: helping destigmatize mental illness, and create value systems to help people decide how to spend their time and attention.
