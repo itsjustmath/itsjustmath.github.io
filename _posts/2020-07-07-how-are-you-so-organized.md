@@ -16,7 +16,7 @@ There is something to be said about how organized someone's living and working s
 
 {% marginfigure 'workspace' 'assets/img/organized-workspace.jpg' 'Photo by [Norbert Levajsics](https://unsplash.com/photos/gCUOkv04kbI)' %}
 
-This borderline obsessive level of organizational discipline is not some gimmick though — it's the way I've learned to cope with my ADHD, and a subsequent brain that is maladapted for the domestic, sedentary, delayed-gratification knowledge-worker-life I now live.
+This borderline obsessive level of organizational discipline is not some gimmick though — it's the way I've learned to cope with my ADHD, and a brain that is maladapted for the domestic, sedentary, delayed-gratification knowledge-worker-life I now live.
 
 But if you've never struggled with tending your metaphorical digital or analog gardens, you're probably wondering how this relates to you. So let's reframe the question from earlier: **How do we free up our brains to focus on what's important? How do we prevent technology companies from exploiting our visceral impulses and derailing us from our pursuit of real value and meaning in life?**
 
