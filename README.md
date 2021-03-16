@@ -4,8 +4,10 @@
 
 ```zsh
 # local development
-bundle exec jekyll build
 bundle exec jekyll serve -w
+
+# before deploying
+bundle exec jekyll build
 
 # deploy to gh-pages
 bundle exec jgd
