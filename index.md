@@ -14,7 +14,7 @@ I'm a New York-born and Los Angeles-raised front-end developer / UI engineer. Wh
 
 
 <!-- My Work -->
-I currently work at a mid-size creative agency called **_Zehner_** — where I've helped build sites such as [Tailored Pet Nutrition](https://tailoredpet.com/), [FIJI Water](https://www.fijiwater.com), [San Antonio Museum of Art](https://www.samuseum.org/), [Sun Bum](https://www.trustthebum.com/), [Nuun](https://nuunlife.com/), [Outerknown](https://www.outerknown.com/), and [more](https://www.zehnergroup.com/work). Previously I worked on the apartment rental platform, [Radpad](https://www.onradpad.com/).
+I currently work at a mid-size creative agency called **_Zehner_** — where I've helped build sites such as [Stamps.com](https://store.stamps.com/), [FIJI Water](https://www.fijiwater.com), [San Antonio Museum of Art](https://www.samuseum.org/), [Tailored Pet Nutrition](https://tailoredpet.com/), [Sun Bum](https://www.trustthebum.com/), [Nuun](https://ourcommunity.nuunlife.com/), [Outerknown](https://www.outerknown.com/), and [more](https://www.zehnergroup.com/work). Previously I worked on the apartment rental platform, [Radpad](https://www.onradpad.com/).
 
 <!-- {% maincolumn 'assets/img/projects-quilt.png' '' %} -->
 
