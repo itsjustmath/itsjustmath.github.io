@@ -424,6 +424,9 @@ ul, ol {
   -webkit-padding-end: 5%;
   /*list-style-type: none;*/ }
 
+@media screen and (max-width: 760px) {
+  ul, ol {
+    width: 100%; } }
 ul > li > ul,
 ol > li > ul {
   width: 100%; }
