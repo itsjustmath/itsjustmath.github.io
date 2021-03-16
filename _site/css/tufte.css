@@ -308,6 +308,9 @@ p, li {
   padding-right: 2rem;
   vertical-align: baseline; }
 
+li {
+  margin-top: 1rem; }
+
 blockquote p {
   font-size: 1.1rem;
   line-height: 1.78181818;
@@ -419,7 +422,11 @@ ul, ol {
   width: 45%;
   -webkit-padding-start: 5%;
   -webkit-padding-end: 5%;
-  list-style-type: none; }
+  /*list-style-type: none;*/ }
+
+ul > li > ul,
+ol > li > ul {
+  width: 100%; }
 
 figure, figure img.maincolumn {
   max-width: 55%;
