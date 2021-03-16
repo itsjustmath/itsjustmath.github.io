@@ -20,7 +20,7 @@ This is how anxiety and depression manifests in me. And for so long I thought so
 {% maincolumn 'assets/img/deer-headlights.jpg'  %}
 
 > When a deer sees an incoming car, it freezes [instinctually]. For us, it looks stupid. [But to the deer freezing] would be the best reaction if the car were a predator: **too big to fight, too fast to outrun.**
-{% sidenote "piotr" "Don't fight, flight (or freeze) your body and emotions, by Piotr Migdał" %}
+{% sidenote "piotr" "[Don't fight, flight (or freeze) your body and emotions](https://pmigdal.medium.com/dont-fight-flight-or-freeze-your-body-and-emotions-96f5aa30b299), by Piotr Migdał" %}
 
 ## The Software Got Upgraded, The Hardware Did Not
 
@@ -29,7 +29,7 @@ In our advanced civilized society, we have become so disconnected from what it m
 ## Why This Is Important
 
 > There was a study that tracked 30,000 adults in the United States for eight years. And they started by asking people, “how much stress have you experienced in the last year?”  They also asked, “Do you believe that stress is harmful for your health?”, and then they used public death records to find out who died.
-> 
+>
 > People who **experienced a lot of stress** in the previous year had a **43% increased risk of dying**. But that was **only true for the people** who also **believed that stress is harmful for your health**. People who experienced a lot of stress but **did not view stress as harmful** were no more likely to die. In fact, they **had the lowest risk of dying of anyone in the study**, including people who had relatively little stress.
 {% sidenote 'stresstudy' '[How to Make Stress Your Friend](https://www.youtube.com/watch?v=RcGyVTAoXEU), Kelly McGonigal' %}
 
@@ -40,19 +40,19 @@ People don't have to suffer as much as they think they should. Trauma (and previ
 The human brain did not evolve for life in a delayed-return environment. It spent hundreds of thousands of years evolving for an immediate-return environment. With a blink of the eye it all changed.{% sidenote 'evoanx' 'The Evolution of Anxiety, by James Clear' %} This new environment has led to chronic stress and anxiety for humans, because those emotions stopped being useful to help us take action in the face of immediate problems.
 
 We essentially have an ancient alarm system that is often triggered by things that aren't true threats to us. And counterintuitively, the way to fix that hairpin trigger is tuning in (with loving awareness) and letting ourselves fully feel all of the fight, flight, or freeze trauma that our body is carrying with us at that moment. And once you’ve done be sure to thank your brain for trying to protect you and keep you safe.{% sidenote 'fakenews' 'The Fake News of Your Own Mind, Your Undivided Attention (Podcast)' %}
- 
+
 ## What to Do About It
 
 ### Me: Recognize & Respond (With Compassion)
 {% marginnote "howtoadhd" "This section was inspired by How to ADHD's video on How to Deal with Rejection Sensitivity" %}
 
-***Step 1 - Recognize**: Where you're at emotionally* 
+***Step 1 - Recognize**: Where you're at emotionally*
 
 Whenever you feel distressed — try to check if it is a fight-like, flight-like, or freeze-like response. Focus on the sensation: observing and experiencing, but not judging.
 
 {% marginfigure 'fff' 'assets/img/fight-flight-freeze.png' %}
 
-Below are some emotions and their corresponding fear responses: {% sidenote "piotr2" "Don't Fight, Flight (Or Freeze) Your Body and Emotions, by Piotr Migdał ([Image Source](https://kidshelpline.com.au/teens/issues/why-do-i-freak-out))"  %}
+Below are some emotions and their corresponding fear responses: {% sidenote "piotr2" "[Don't fight, flight (or freeze) your body and emotions](https://pmigdal.medium.com/dont-fight-flight-or-freeze-your-body-and-emotions-96f5aa30b299), by Piotr Migdał ([Image Source](https://kidshelpline.com.au/teens/issues/why-do-i-freak-out))"  %}
 
 - FIGHT: anger / pushing
 - FLIGHT: distracting oneself
@@ -77,7 +77,7 @@ After you’ve become aware of being triggered, determine how intense the emotio
 	- This is the time to use (time-tested) strategies to help us feel safe
 	- This is not the time to engage others, or make any brash decisions
 
-***Step 3 - Practice**: Telling your body that you are not in danger* 
+***Step 3 - Practice**: Telling your body that you are not in danger*
 
 When you are “in the green” (emotionally), that’s a great opportunity to practice some exposure therapy. To practice telling your body that it’s not in danger. Exhausted muscles after intensive exercise, burning sensation from chili peppers, the heat of a sauna — these are all great examples of stimuli and stressors that you can use to help retrain your reactions to stress.
 
@@ -93,7 +93,7 @@ Culturally we look at depression and anxiety as irrational and unnecessary suffe
 But when we begin to understand that these manifestations of negative energy are adaptive responses to adversity and not mental disorders, we begin to lift the shame around them. And when that shame begins to lift, people who struggle with these emotions can start feeling like courageous survivors, and not damaged invalids.
 
 We often have this optical illusion that we’re the only one’s feeling whatever we're currently feeling, but we can reframe this by asking ourselves, "would anyone else in this situation feel the same thing?" When we reflect, we realize that what we’re going through is what all human beings go through. We are not crazy, or specially defective in any way.
-	
+
 ## Carrying This Awareness Forward
 
 I believe that by cultivating self-awareness and self-compassion we can channel our negative emotions into life energy and be able to harness them to our advantage. **Because the right amount of *stress* is called <u>stimulation</u>**.
