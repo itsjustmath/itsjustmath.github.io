@@ -27,7 +27,7 @@ This is how anxiety and depression manifests in *me*. And for so long I thought 
 
 People don't have to suffer as much as they do. Trauma (and previous conditioning) makes the past overdetermine the present and conjures up a future that identifies with doom and chaos. BUT, you change your perspective about these past experiences by changing your interpretive frameworks.
 
-For most of my life I had been shackled by these overwhelming feelings, so coming to this realization earlier this year was a crucible moment{% sidenote "crucible" "A crucible moment is a transformative experience through which an individual comes to a new or an altered sense of identity." %} for me. I feel like this changed perspective upgraded my operating system, and unlocked this high-performance mode within me that I never knew existed. Just think: when our ancestors were still hunter-gatherers, this “stress” could actually have been considered “vigilance” because (at the time) it was a useful instinct that improved their chances of survival. 
+For most of my life I had been shackled by these overwhelming feelings, so coming to this realization earlier this year was a crucible moment{% sidenote "crucible" "A crucible moment is a transformative experience through which an individual comes to a new or an altered sense of identity." %} for me. I feel like this changed perspective upgraded my operating system, and unlocked this high-performance mode within me that I never knew existed. Just think: when our ancestors were still hunter-gatherers, this “stress” could actually have been considered “vigilance” because (at the time) it was a useful instinct that improved their chances of survival.
 
 Armed with this new awareness, my hope is that you can begin to:
 1. Stop shaming yourself
@@ -38,7 +38,7 @@ Armed with this new awareness, my hope is that you can begin to:
 
 In our advanced civilized society, we have become so disconnected from what it means to feel human. We mistake negative emotions, like stress, and its cousins—procrastination,  anxiety and depression—as weakness of character. In reality, these are beacons, signals that something isn't right. If we can reframe how we look at these stressors, we can change our brain and our body's response to them.
 
-<br> 
+<br>
 {% fullwidth 'assets/img/deer-headlights.jpg'  %}
 
 ### Constantly Feeling Like a Deer in the Headlights
@@ -81,7 +81,7 @@ After you’ve become aware of being triggered, determine how intense the emotio
 ***Step 2 - Respond**: with a strategy that makes sense for your level of emotional intensity*
 
 1. **Red**: our emotions are so high that we're entering fight, flight, or freeze mode
-	- This is the time to use time-tested strategies to help us feel safe, [I recommend box breathing{% sidenote 'boxbreathing' 'Box breathing is a technique used to calm yourself down with a simple 4 second rotation of breathing in, holding your breath, breathing out, holding your breath, and repeating.' %} as a way to return breathing to its normal rhythm]
+	- This is the time to use time-tested strategies to help us feel safe, [I recommend box breathing{% sidenote 'boxbreathing' 'Box breathing is a technique used to calm yourself down with a simple 4 second rotation of breathing in, holding your breath, breathing out, holding your breath, and repeating.' %} as a way to return breathing to its normal rhythm] {% marginfigure 'boxbreath' 'assets/img/box-breathing.gif' %}
 	- This is not the time to engage others or make any brash decisions
 2. **Yellow**: emotions are heightened, but we're somewhat in control
 	- This is the time to use strategies to slow us down and calm our brains (like focusing on breathing, going on a short walk, drinking some tea)
