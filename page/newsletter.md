@@ -8,6 +8,6 @@ weight: 4
 
 <iframe
 scrolling="no"
-style="width:100%!important;height:220px;border:1px #ccc solid !important"
+style="width:100%!important;height:220px;border:1px #ccc solid !important; padding-top: 30px;"
 src="https://buttondown.email/itsjustmath?as_embed=true"
 ></iframe><br /><br />
