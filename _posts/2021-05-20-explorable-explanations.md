@@ -107,7 +107,7 @@ A counterpoint: as explorables grow in popularity, authors will develop framewor
 
 Even though we seem to have lost our way with our present day technology, there is a huge opportunity—especially with this burgeoning creator economy—to invent the future by thinking deeply about the intent behind the designs of past computer pioneers. Bret Victor has inspired a generation of engineers (including myself) to imagine a future where our media and modes of communication (and collaboration) are dynamic and expressive.
 
-If we can upgrade our tools and techniques to help us understand the complexity of our world we'll be able to develop new thoughts and new solutions to the most pressing issues we face today.
+If we can upgrade our tools and techniques to help us understand the complexity of our world, we'll be able to develop new thoughts and new solutions to the most pressing issues we face today.
 
 
 <script>
