@@ -6,6 +6,8 @@ published: true
 reading_time: true
 ---
 
+{% maincolumn 'assets/img/explorables/elements-4d-viewfinder.jpeg' %}
+
 A few years ago, I had the opportunity to build a complementary website for an augmented reality app and interactive learning experience that this startup DAQRI built, called [Elements 4D](https://www.kickstarter.com/projects/daqri/elements-4d-interactive-blocks/description).  Each block face represented a different element from the periodic table. Beaming the app's viewfinder onto the blocks instantly transformed them into 4D{% sidenote '4d' 'It was called "4D" because the product cube had the same make-up as a three-dimensional object, with an additional interactive fourth dimension provided through the lens of their augmented reality app. It was a marketing term that the DAQRI team came up with.' %} representations of that element, and clicking on that block in the app brought up detailed information about that element. I was immediately struck by the potential of this concept as someone who has been an experiential learner his whole life. I just didn't realize it had a name, an "explorable explanation."{% sidenote 'ee' 'Also called “EE” or “Explorable”' %}
 
 <!--more-->
