@@ -4,6 +4,7 @@ subtitle: Why Explorable Explanations Have The Potential to Revolutionize the Le
 layout: post
 published: true
 reading_time: true
+description: A new digital medium—an explorable explanation—has emerged with the potential to make learning more accessible to a broader range of people using active learning techniques. It makes systems intelligible, and complex behavior visible and useful; it allows direct manipulation of dynamic representations
 ---
 
 {% maincolumn 'assets/img/explorables/elements-4d-viewfinder.jpeg' %}
@@ -19,7 +20,7 @@ A few years ago, I had the opportunity to build a complementary website for an a
 
 Think of examples in your own life where you have learned something from experience (or experimentation) in a way that you could never have learned conceptually. A classic example of "learning from experience" is when a parent tries to teach their child not to touch fire. They can try to teach them conceptually, but the child won't understand why until they learn by getting their hand too close to the fire.
 
-In the early 1900s—around the same time the industrial revolution was beginning to gain steam—Maria Montessori just graduated from medical school. She was starting to formulate a hypothesis about how children are driven genetically to learn their culture. In her observations, she noticed that children were naturally curious, eager for knowledge, and fully capable of initiating learning in a sufficiently supportive and well-prepared learning environment. 
+In the early 1900s—around the same time the industrial revolution was beginning to gain steam—Maria Montessori just graduated from medical school. She was starting to formulate a hypothesis about how children are driven genetically to learn their culture. In her observations, she noticed that children were naturally curious, eager for knowledge, and fully capable of initiating learning in a sufficiently supportive and well-prepared learning environment.
 
 Around the same time the Henry Ford assembly-line process rolled onto the scene. With its focus on efficiency and output, it quickly gained steam and began to bleed into our education system. Shunting Montessori's efforts by creating a "factory model" for learning, it treated children as raw products (instead of curious individuals) that are to be shaped into products to meet the various demands of the economy.
 
@@ -76,7 +77,7 @@ Explorable explanations utilize visualization as more than just a tool for findi
 
 ## Critiques of Explorable Explanations
 
-There are a couple things that hold back the mainstream adoption of Explorable Explanations, mostly surrounding the resources and research required to create and further develop a new medium for thought. 
+There are a couple things that hold back the mainstream adoption of Explorable Explanations, mostly surrounding the resources and research required to create and further develop a new medium for thought.
 
 Similar to the hurdles that Kay and Englebart ran into, the conditions for researching and developing this new medium is left up to researchers and passionate open-sourcers and not corporations because this kind of long-term research that benefits humanity rarely happens within settings that are obsessed with quarter-by-quarter financials.
 

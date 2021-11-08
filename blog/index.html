@@ -11,6 +11,14 @@ published: true
   {% if post.show_date == true %}
     <br><span>{{ post.date | date: "%B %-d, %Y" }}</span>  <br/>
   {% endif %}
-  <div>{{ post.excerpt }}</div>
+
+  {% if post.description %}
+    <div>
+      <p>{{ post.description }}</p>
+    </div>
+  {% else %}
+    <div>{{ post.excerpt }}</div>
+  {% endif %}
+
   <p><a href="{{ post.url | prepend: site.baseurl }}">Read More</a></p>
 {% endfor %}
